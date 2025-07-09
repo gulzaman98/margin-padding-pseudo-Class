@@ -1,0 +1,86 @@
+.world{
+    /* background-color: brown;
+    margin: 20px; */
+}
+.gulzaman{
+    /* background-color: red; */
+    /* padding: 20px; */
+}
+/* button{
+    background-color: aqua;
+    color: black;
+    padding: 10px 20px;
+    border-radius: 5px;
+    border: none;
+    font-size: 15px;
+    margin: 20px;
+   
+}
+
+button:hover{
+    background-color: indigo;
+    color: white;
+    transition: ease-in-out 0ms ;
+}
+
+.button{
+    justify-content: flex-end;
+    display: flex;
+} */
+ /* .card {
+      width: 250px;
+      margin: 50px auto; /* Center and space from top */
+      /* padding: 20px;
+      background-color: #f0f0f0;
+      border-radius: 10px;
+      box-shadow: 0 0 5px gray;
+      transition: 0.3s;
+    }
+
+    .card:hover {
+      background-color: #e0e0ff;
+      box-shadow: 0 0 10px purple;
+    }
+
+    .card h2:first-child {
+      margin-bottom: 10px;
+      color: darkblue;
+    }
+
+    .card p:last-child {
+      color: gray;
+      font-style: italic;
+    } 
+
+    .card */
+
+    .container{
+      display: flex;
+      gap: 20px;
+
+    }
+
+    .card{
+        width: 230px;
+        margin: 50px auto;
+        padding: 20;
+        background-color: #f0f0f0;
+        border-radius: 10px;
+        box-shadow: 0 0 5px gray;
+        transition: 0.3s;
+    }
+
+    .card:hover{
+      background-color: #e0e0ff;
+      box-shadow: 0 0 10px purple;
+    }
+    .card h2:first-child{
+      color: blue;
+      font-size: 20px;
+    }
+
+    .card p:last-child{
+      color: gray;
+      font-style: italic;
+    }
+
