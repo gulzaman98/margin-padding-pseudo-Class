@@ -84,3 +84,37 @@ button:hover{
       font-style: italic;
     }
 
+    .container{
+      width: 300px;
+      height: 200px;
+      border: 2px solid black;
+      margin: 20px 30px 20px 30px;
+      padding: 20px 30px;
+    }
+
+    .container2{
+      width: 300px;
+      height: 200px;
+      border: 2px solid black;
+      margin: 20px 30px 20px 30px;
+      padding: 20px 30px;
+    }
+    .col{
+      height: 200px;
+      width: 170px;
+      border: 1px solid black;
+    }
+    .col2{
+      margin-left: 220px;
+      margin-top: -200px;
+
+    }
+    .col3{
+       margin-left: 440px;
+      margin-top: -200px;
+    }
+   .col4{
+    margin-left:  670px;
+    margin-top: -200px;
+   }
+
