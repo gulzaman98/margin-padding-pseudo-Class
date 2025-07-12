@@ -54,7 +54,7 @@ button:hover{
 
     .card */
 
-    .container{
+    /* .container{
       display: flex;
       gap: 20px;
 
@@ -116,5 +116,39 @@ button:hover{
    .col4{
     margin-left:  670px;
     margin-top: -200px;
-   }
+   } */
 
+/* position ki css */
+.container .col{
+  width: 200px ;
+  height: 200px;
+  border: 2px solid red;
+}
+.col2{
+  position: relative;
+  left: 100px;
+  top: -100px;
+  background-color: yellowgreen;
+}
+.col3{
+  position: relative;
+  left: 200px;
+  top: -200px;
+  background-color: aqua;
+}
+.col4{
+  position: relative;
+  left: 300px;
+  top: -300px;
+  background-color: yellow;
+}
+.coloum{
+   height: 300px;
+   width: 300px;
+   border: 5px solid gray;
+
+}
+.img img{
+  height: 300px;
+  width: 300px;
+}
