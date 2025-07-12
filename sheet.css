@@ -119,6 +119,8 @@ button:hover{
    } */
 
 /* position ki css */
+
+
 .container .col{
   width: 200px ;
   height: 200px;
@@ -145,10 +147,56 @@ button:hover{
 .coloum{
    height: 300px;
    width: 300px;
-   border: 5px solid gray;
-
+   
+   position: relative;
+   margin: 10px;
 }
 .img img{
   height: 300px;
   width: 300px;
+}
+.product-title{
+  position: relative;
+  top: -80px;
+  text-align: center;
+
+}
+
+.product-des{
+  position: relative;
+  top: -100px;
+  text-align: center;
+  font-weight: bold;
+  font-size: 20px;
+
+}
+
+#coloum2{
+   height: 300px;
+   width: 300px;
+   
+   position: relative;
+   margin: 10px;
+   left:350px;
+   top: -314px;
+}
+
+#coloum3{
+   height: 300px;
+   width: 300px;
+   
+   position: relative;
+   margin: 10px;
+   left:700px;
+   top: -628px;
+}
+
+#coloum4{
+   height: 300px;
+   width: 300px;
+
+   position: relative;
+   margin: 10px;
+   left:1050px;
+   top: -940px;
 }
