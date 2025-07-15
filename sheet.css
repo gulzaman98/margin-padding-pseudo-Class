@@ -121,7 +121,7 @@ button:hover{
 /* position ki css */
 
 
-.container .col{
+/* .container .col{
   width: 200px ;
   height: 200px;
   border: 2px solid red;
@@ -199,4 +199,70 @@ button:hover{
    margin: 10px;
    left:1050px;
    top: -940px;
+} */
+
+/* .container{
+  border: 1px solid green;
+  padding: 5px;
+}
+
+.row{
+  border: 1px solid orange;
+  padding: 5px;
+  position: relative ;
+}
+
+.col{
+  height: 200px;
+  width: 200px;
+  border: 1px solid black;
+  margin: 5px;
+}
+.c2{
+  /* position: relative; */
+/* }
+.c2 .child{
+  height:50px ;
+  width: 50px;
+  border: 1px solid red
+}
+
+.child2{
+      position: absolute;
+      background-color: yellow;
+      top: 0px;
+      left: 30px;
+} */ 
+
+.container{
+  border: 1px solid red;
+}
+
+.row{
+  border: 1px solid green;
+  display: flex;
+  justify-content: space-evenly;
+flex-wrap: wrap;
+
+}
+
+.col{
+  height: 300px;
+  width: 300px;
+  border: 1px solid gray;
+  margin-top: 10px ;
+  border-radius: 5px;
+}
+.col .img{
+  height: 230px;
+  ;
+}
+.col .img img{
+  height: 200px;
+  border: 1px solid red;
+}
+.col .content h1{
+ 
+  margin-top: -10px;
+  text-align: center;
 }
