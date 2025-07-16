@@ -121,7 +121,7 @@ button:hover{
 /* position ki css */
 
 
-.container .col{
+/* .container .col{
   width: 200px ;
   height: 200px;
   border: 2px solid red;
@@ -147,9 +147,10 @@ button:hover{
 .coloum{
    height: 300px;
    width: 300px;
-   
    position: relative;
    margin: 10px;
+   border-radius: 5px;
+   
 }
 .img img{
   height: 300px;
@@ -200,3 +201,11 @@ button:hover{
    left:1050px;
    top: -940px;
 }
+
+.coloum:hover{
+  background-color: aqua;
+  box-shadow: 0 0 10px purple;
+  transition: ease-in-out 0ms;
+  
+} */
+
